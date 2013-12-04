@@ -19,6 +19,7 @@ $(document).ready(function(){
           $("#"+event.target.id).addClass("circle");
           $("#"+data).addClass( "cross" );
         }else{
+          alert("Casilla ocupada");
           $(function() {
             $( "#dialog" ).dialog();
           });
