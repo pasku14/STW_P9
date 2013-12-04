@@ -1,4 +1,4 @@
-Building a Simple Sinatra Tic-Tac-Toe game 
+TRES EN RAYA CON AJAX!
 ==================================================
 
 App currently contains:
@@ -18,6 +18,7 @@ App currently contains:
 	1.1. Añadir una base de datos a la práctica del TicTacToe para guardar a los usuarios y sus puntuaciones. 
 	1.2. Las celdas pares e impares seran de distintos colores. 
 	1.3. Deberá tener una lista de jugadores con sus registros.
+	1.4. Se modificara el 'public/app.js'
 	1.4. Desplegar la aplicación en Heroku. 
 
 
@@ -39,4 +40,4 @@ App currently contains:
 
 	Local: htpp://localhost:4567
 
-	Heroku: http://stw-tresenraya.herokuapp.com/
+	Heroku: http://tresnenrayaconajax.herokuapp.com/
